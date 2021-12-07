@@ -152,9 +152,15 @@ Emoji:
 :exclamation: User emoji icons to enhance text. :+1: Look up emoji codes at 
 [emoji-cheat-sheet.com](http://emoji-cheat-sheet.com/)
     Markup : Code appears between colons :EMOJICODE:
-:mask:
+:mask：
+
+## Haolong Huai ##
+
+    Friend: Haolong Huai   649529444
+    Friend: Haolong Huai   649529444
 ### Shengzhe Huang ###
 
     Markup : My name is Shengzhe Huang
              My ID is   649529448
+             Haitao Liu is one of my friend
              Haitao Liu is one of my friend
